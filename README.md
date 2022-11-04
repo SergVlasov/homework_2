@@ -6,14 +6,4 @@
 782 -> 8
 918 -> 1
 
-[Блок-схема](Homework_2/task001/block_diagram1.png) | [Код](Homework/Task001/Program.cs)
-
-## Задача 2
-Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-
-[Блок-схема](Homework/Task002/block%20shema2.png) | [Код](Homework/Task002/Program.cs)
-
-## Задача 3
-Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
-
-[Блок-схема](Homework/Task003/block%20shema3.png) | [Код](Homework/Task003/Program.cs)
+[Блок-схема](homework_2\task001\block_diagram1.png) | [Код](homework)
