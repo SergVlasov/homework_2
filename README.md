@@ -7,7 +7,7 @@
 782 -> 8
 918 -> 1
 
-[Блок-схема]() | [Код](Homework\homework_2\task001\Program.cs)
+[Блок-схема] (Homework\homework_2\task001\block shema1.png) | [Код](Homework\homework_2\task001\Program.cs)
 
 ## Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
@@ -16,7 +16,7 @@
 78 -> третьей цифры нет
 32679 -> 6
 
-[Блок-схема]() | [Код](Homework\homework_2\task002\Program.cs)
+[Блок-схема](Homework\homework_2\task002\block shema2.png) | [Код](Homework\homework_2\task002\Program.cs)
 
 
 ## Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
@@ -25,4 +25,7 @@
 7 -> да
 1 -> нет
 
-[Блок-схема]() | [Код](Homework\homework_2\task003\Program.cs)
+[Блок-схема](Homework\homework_2\task003\block shema3.png) | [Код](Homework\homework_2\task003\Program.cs)
+
+
+[def]: homework
